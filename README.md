@@ -20,8 +20,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-```
-"DevOps is the fusion of development and operations, but it's the empathy between teams that truly makes it successful." - John Willis
-```
+[![](https://visitcount.itsvg.in/api?id=mnafies&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
