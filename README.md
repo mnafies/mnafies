@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m looking for opportunities as Devops Engineer<br>🌱 Currently learning Cloud Computing & Python Programming<br>⚡ Keep trying hard to unlock new skills!<br>
+🔭 I’m a Devops Engineer<br>🌱 Currently learning Cloud Computing & Python Programming<br>⚡ Keep trying hard to unlock new skills!<br>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nafies) 
